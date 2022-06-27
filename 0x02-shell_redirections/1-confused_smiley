@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bas
-echo \"(Ôo)'
-
-=======
 #!/bin/bash
-echo "\"(Ôo)'"
->>>>>>> 70aff65146d95b10c7eba544dc69b26794dffe65
+echo "\"(Ôo)'" 
